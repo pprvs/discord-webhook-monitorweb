@@ -1,5 +1,7 @@
 # discord-webhook-monitorweb
-Monitoring changes in website , integrated with discord webhook
+Monitoring changes in websites.
+
+Integrated with Discord WebHook.
 
 ### Use
 
